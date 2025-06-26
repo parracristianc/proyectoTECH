@@ -1,3 +1,3 @@
 print("Hello World!")
 
-x = "Esto es un cambio     "
+x = "Esto es un ca"
